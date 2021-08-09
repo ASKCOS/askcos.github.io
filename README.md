@@ -2,7 +2,7 @@
 Software package for the prediction of feasible synthetic routes towards a desired compound and associated tasks related to synthesis planning. Originally developed under the DARPA Make-It program and now being developed under the [MLPDS Consortium](http://mlpds.mit.edu).
 
 # Overview
-Starting with version 2020.07, the ASKCOS project is now comprised of five GitLab repositories.
+Starting with version 2020.07, the ASKCOS project is now comprised of five GitHub repositories.
 
 | Repository | Description |
 | :--------- | :---------- |
