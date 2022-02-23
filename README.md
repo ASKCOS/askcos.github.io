@@ -20,6 +20,7 @@ If you have any questions or comments, please contact askcos_support@mit.edu.
 
 # Releases
 - [2021.01](/2021-01/)
+    - [Release Highlights](/2021-01/highlights)
     - [API v2 Reference](/2021-01/api2)
 - [2020.07](/2020-07/)
     - [API v2 Reference](/2020-07/api2)
