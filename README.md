@@ -19,6 +19,8 @@ In addition, please do not submit any proprietary data to the public site as it 
 If you have any questions or comments, please contact askcos_support@mit.edu.
 
 # Releases
+- [2021.01](/2021-01/)
+    - [API v2 Reference](/2021-01/api2)
 - [2020.07](/2020-07/)
     - [API v2 Reference](/2020-07/api2)
 - [0.4.1](/0-4-1/)

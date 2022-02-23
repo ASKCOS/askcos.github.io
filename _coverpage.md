@@ -1,4 +1,4 @@
-# ASKCOS <small>2020.07</small>
+# ASKCOS <small>2021.01</small>
 
 > Interactive application for synthesis planning
 
